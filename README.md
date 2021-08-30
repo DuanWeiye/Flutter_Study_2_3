@@ -2,15 +2,15 @@
 
 flutter_study_two
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![flutter2_1](https://user-images.githubusercontent.com/6914443/131315062-d7b9db37-92dd-4045-a9b3-16405aaa9e92.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![flutter2_2](https://user-images.githubusercontent.com/6914443/131315059-741ade98-118c-4af4-9468-42753a4bbf99.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![flutter2_3](https://user-images.githubusercontent.com/6914443/131315052-6217f263-1c83-49de-8723-86e802b6cf7c.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter2_4](https://user-images.githubusercontent.com/6914443/131315044-dc6b387c-a524-41dd-bb7d-94f11782e72c.jpg)
+
+
+
+
